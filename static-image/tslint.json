@@ -1,0 +1,8 @@
+{
+    "extends": [
+        "angular-tslint-rules"
+    ],
+    "rules": {
+        // override tslint rules here
+    }
+}
